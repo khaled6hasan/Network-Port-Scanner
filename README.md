@@ -59,6 +59,10 @@ python port_scanner.py --target 192.168.1.1 --output report.txt
 
 ## 🔍 Example Output
 
+![portscann1](https://github.com/khaled6hasan/Network-Port-Scanner/blob/main/portscann1.PNG)
+![portscann2](https://github.com/khaled6hasan/Network-Port-Scanner/blob/main/portscann2.PNG)
+![portscann3](https://github.com/khaled6hasan/Network-Port-Scanner/blob/main/portscann3.PNG)
+![portscann4](https://github.com/khaled6hasan/Network-Port-Scanner/blob/main/portscann4.PNG)
 
 ---
 
