@@ -73,16 +73,6 @@ Do NOT use it to scan targets without explicit permission. Unauthorized scanning
 
 ---
 
-## 📂 Project Structure
-
-```bash
-port_scanner.py
-README.md
-requirements.txt
-
-```
----
-
 ## 📝 Author
 
 Made with ❤️ by [ Khaled Hasan Nahid ]
